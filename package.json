@@ -1,0 +1,28 @@
+{
+  "name": "forkify-javascript",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caylabradleydev/forkify.git"
+  },
+  "author": "Caylabradleydev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caylabradleydev/forkify/issues"
+  },
+  "homepage": "https://github.com/caylabradleydev/forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "core-js": "^3.36.1",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
