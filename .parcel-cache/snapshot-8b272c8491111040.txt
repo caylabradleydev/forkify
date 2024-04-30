@@ -10,7 +10,7 @@
 126C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\@parcel\utils\test\DefaultMap.test.js133572447940891963 0
 106C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\svgo\lib\style.js133572447941800260 0
 86C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\.gitignore133577616368243134 0
-103C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\index.f7626f62.css.map133589739544997956 0
+103C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\index.f7626f62.css.map133589753097506974 0
 124C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\full\async-disposable-stack133577610114562662 1
 108C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\readdirp\index.d.ts133572448207304415 0
 95C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\@lezer133572447914983330 1
@@ -62,7 +62,7 @@
 123C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\modules\es.string.split.js133577610098460366 0
 111C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\lru-cache\package.json133572447924769830 0
 131C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\css-tree\cjs\utils\create-custom-error.cjs133572447940515650 0
-80C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist133589742415557533 1
+80C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist133589756433199355 1
 111C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\path-type\package.json133572447920838831 0
 128C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\modules\esnext.math.f16round.js133577610101591009 0
 109C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\stable\stable.min.js133572447928519978 0
@@ -255,7 +255,7 @@
 122C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\stable\array\find-last.js133577610106463842 0
 113C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\dom-serializer\README.md133572447936871142 0
 119C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\es\regexp\to-string.js133577610133025828 0
-96C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\src\js\controller.js133589737298001172 0
+96C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\src\js\controller.js133589753091981130 0
 141C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\css-select\node_modules\domutils\lib\legacy.d.ts.map133572447944456401 0
 131C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\css-tree\lib\definition-syntax\generate.js133572447960046784 0
 119C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\semver\internal\identifiers.js133572447939779404 0
@@ -267,7 +267,7 @@
 98C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\lmdb\dist133572447958301385 1
 103C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\domhandler\lib133572447934937271 1
 115C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\@parcel\graph\src\types.js133572447941873519 0
-91C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\src\js\model.js133589708884325208 0
+91C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\src\js\model.js133589749215865768 0
 129C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\@parcel\profiler\src\SamplingProfiler.js133572447934219817 0
 120C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\features\string\bold.js133577610090146428 0
 120C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\caniuse-lite\data\regions\MG.js133572447969238337 0
@@ -308,7 +308,7 @@
 101C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\resolve-from133572447925894095 1
 118C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\csso\lib\clean\Declaration.js133572447950675264 0
 114C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\css-tree\cjs\syntax\scope133572447957385062 1
-102C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\src\js\views\recipeView.js133589693080608157 0
+102C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\src\js\views\recipeView.js133589756432765072 0
 124C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\update-browserslist-db\package.json133572447931044458 0
 130C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\caniuse-lite\data\features\mediasource.js133572447969152457 0
 128C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\proposals\regexp-dotall-flag.js133577610123638978 0
@@ -4400,7 +4400,7 @@
 134C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\css-select\node_modules\entities\lib\index.js133572447942015574 0
 155C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\css-select\node_modules\entities\lib\generated\decode-data-html.js133572447936891228 0
 110C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\actual\symbol133577610134591125 1
-101C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\favicon.8b2f57bf.png133589739544916990 0
+101C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\favicon.8b2f57bf.png133589753097844417 0
 159C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\css-select\node_modules\entities\lib\generated\decode-data-html.js.map133572447944046360 0
 132C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\caniuse-lite\data\features\readonly-attr.js133572447971052068 0
 127C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\stable\string\virtual\blink.js133577610090120123 0
@@ -4983,7 +4983,7 @@
 124C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\stable\reflect\construct.js133577610091236898 0
 128C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\modules\esnext.weak-map.from.js133577610103642545 0
 117C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\actual\array\join.js133577610117627122 0
-91C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\index.html133589739544749972 0
+91C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\index.html133589753097407321 0
 131C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\stable\reflect\get-prototype-of.js133577610110434471 0
 123C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\stable\reflect\own-keys.js133577610121670585 0
 129C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\core-js\features\typed-array\from-hex.js133577610108721716 0
@@ -9625,11 +9625,11 @@
 116C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\node_modules\.bin\update-browserslist-db133572447984065265 0
 111C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\forkify-javascript.3464ddca.js133572448224142676 0
 115C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\forkify-javascript.3464ddca.js.map133572448224233197 0
-99C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\icons.21bad73c.svg133589739545259105 0
-99C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\icons.dfd7a6db.svg133589739544934948 0
+99C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\icons.21bad73c.svg133589753098081341 0
+99C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\icons.dfd7a6db.svg133589753097407321 0
 98C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\index.62406edb.js133572448224142676 0
 102C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\index.62406edb.js.map133572448224206537 0
-98C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\index.e37f48ea.js133589742415478322 0
-102C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\index.e37f48ea.js.map133589742415535486 0
-99C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\index.f7626f62.css133589739544934948 0
-98C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\logo.726d37a8.png133589739544524607 0
+98C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\index.e37f48ea.js133589756433150882 0
+102C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\index.e37f48ea.js.map133589756433186195 0
+99C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\index.f7626f62.css133589753097421426 0
+98C:\Users\cayla\OneDrive\Documents\Programming\JavaScript\forkify-javascript\dist\logo.726d37a8.png133589753097452255 0
